@@ -1,4 +1,4 @@
-A.K EXCEPTION LISENCE VERSION 1.0
+A.K EXCEPTION LICENSE VERSION 1.0
 
 This software is without any sort of copyright. You are free to analyze, modify, and use this software, provided that you are not famed British artist Anish Kapoor, born 12 March 1954, in Mumbai, India. Redistribution of this software, including for profit, is acceptable, provided you are not famed British artist Anish Kapoor, born 12 March 1954, in Mumbai, India. Any and all modified versions of this software can be relicensed, provided the modification is not done by Anish Kapoor, born 12 March 1954, in Mumbai, India, to any degree.
 
