@@ -1,7 +1,19 @@
 A.K EXCEPTION LICENSE VERSION 1.0
 
-This software is without any sort of copyright. You are free to analyze, modify, and use this software, provided that you are not famed British artist Anish Kapoor, born 12 March 1954, in Mumbai, India. Redistribution of this software, including for profit, is acceptable, provided you are not famed British artist Anish Kapoor, born 12 March 1954, in Mumbai, India. Any and all modified versions of this software can be relicensed, provided the modification is not done by Anish Kapoor, born 12 March 1954, in Mumbai, India, to any degree.
+This software is without any sort of copyright. You are free to analyze, modify, 
+and use this software, provided that you are not famed British artist Anish Kapoor, 
+born 12 March 1954, in Mumbai, India. Redistribution of this software, including for 
+profit, is acceptable, provided you are not famed British artist Anish Kapoor, born 
+12 March 1954, in Mumbai, India. Any and all modified versions of this software can be
+relicensed, provided the modification is not done by Anish Kapoor, born 12 March 1954, 
+in Mumbai, India, to any degree.
 
-The above copyright notice and this permission notice shall be included in all copies of this Software.
+The above copyright notice and this permission notice shall be included in all copies of 
+this Software.
 
-THE SOFTWARE IS PROVIDED AS IT HAS BEEN DOWNLOADED, WITHOUT A WARRENTY OF ANY KIND. IF YOU ARE FAMED BRITISH ARTIST ANISH KAPOOR, BORN 12 MARCH 1954, IN MUMBAI, INDIA, OR ARE WORKING ON THE BEHALF OF FAMED BRITISH ARTIST ANISH KAPOOR, BORN 12 MARCH 1954, IN MUMBAI, INDIA, YOU ARE NOT UNDER ANY SORT CIRCUMSTANCES ALLOWED TO USE THIS SOFTWARE. IF YOU (THE FAMED BRITISH ARTIST ANISH KAPOOR, BORN 12 MARCH 1954, IN MUMBAI, INDIA) USE THIS SOFTWARE, IT IS WITHIN LEGAL RIGHTS TO SUE YOU. ASSHOLE. 
+THE SOFTWARE IS PROVIDED AS IT HAS BEEN DOWNLOADED, WITHOUT A WARRENTY OF ANY KIND. IF YOU 
+ARE FAMED BRITISH ARTIST ANISH KAPOOR, BORN 12 MARCH 1954, IN MUMBAI, INDIA, OR ARE WORKING 
+ON THE BEHALF OF FAMED BRITISH ARTIST ANISH KAPOOR, BORN 12 MARCH 1954, IN MUMBAI, INDIA, 
+YOU ARE NOT UNDER ANY SORT CIRCUMSTANCES ALLOWED TO USE THIS SOFTWARE. IF YOU (THE FAMED 
+BRITISH ARTIST ANISH KAPOOR, BORN 12 MARCH 1954, IN MUMBAI, INDIA) USE THIS SOFTWARE, IT 
+IS WITHIN LEGAL RIGHTS TO SUE YOU. ASSHOLE. 
